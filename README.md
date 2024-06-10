@@ -12,7 +12,7 @@ How to Use the File
 - Generate reports based on the dataset for internal and external stakeholders.
  - Customize charts and tables to highlight specific insights relevant to your objectives.
 ## Chart Descriptions
-
+![Screenshot (2)](https://github.com/Pratikshadalavi123/Excel_Project/assets/171336212/e80052e0-4a4d-4565-af4a-0703e8b7a617)
 ### 1. Sales by Category
 - *Description:* This chart shows the total sales for each food category.
 - *Data Source:* Sales_Data sheet, columns A and B.
